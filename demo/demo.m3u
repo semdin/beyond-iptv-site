@@ -1,0 +1,109 @@
+#EXTM3U url-tvg="https://semdin.github.io/beyond-iptv-site/demo/epg.xml.gz"
+#EXTINF:-1 tvg-id="nova1" tvg-name="Nova One" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/logos/nova1.png" group-title="Entertainment",Nova One
+https://semdin.github.io/beyond-iptv-site/demo/live/nova.ts?ch=nova1
+#EXTINF:-1 tvg-id="atlas" tvg-name="Atlas Sports" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/logos/atlas.png" group-title="Sports",Atlas Sports
+https://semdin.github.io/beyond-iptv-site/demo/live/atlas.ts?ch=atlas
+#EXTINF:-1 tvg-id="pulse" tvg-name="Pulse News" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/logos/pulse.png" group-title="News",Pulse News
+https://semdin.github.io/beyond-iptv-site/demo/live/pulse.ts?ch=pulse
+#EXTINF:-1 tvg-id="metro24" tvg-name="Metro 24" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/logos/metro24.png" group-title="News",Metro 24
+https://semdin.github.io/beyond-iptv-site/demo/live/pulse.ts?ch=metro24
+#EXTINF:-1 tvg-id="kidsplanet" tvg-name="Kids Planet" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/logos/kidsplanet.png" group-title="Kids",Kids Planet
+https://semdin.github.io/beyond-iptv-site/demo/live/nova.ts?ch=kidsplanet
+#EXTINF:-1 tvg-id="aurora" tvg-name="Aurora Cinema" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/logos/aurora.png" group-title="Movies",Aurora Cinema
+https://semdin.github.io/beyond-iptv-site/demo/live/nova.ts?ch=aurora
+#EXTINF:-1 tvg-id="wave" tvg-name="Wave Music" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/logos/wave.png" group-title="Music",Wave Music
+https://semdin.github.io/beyond-iptv-site/demo/live/nova.ts?ch=wave
+#EXTINF:-1 tvg-id="terra" tvg-name="Terra Docs" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/logos/terra.png" group-title="Documentary",Terra Docs
+https://semdin.github.io/beyond-iptv-site/demo/live/nova.ts?ch=terra
+#EXTINF:-1 tvg-id="orbit" tvg-name="Orbit Science" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/logos/orbit.png" group-title="Documentary",Orbit Science
+https://semdin.github.io/beyond-iptv-site/demo/live/nova.ts?ch=orbit
+#EXTINF:-1 tvg-id="arena2" tvg-name="Arena Sports 2" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/logos/arena2.png" group-title="Sports",Arena Sports 2
+https://semdin.github.io/beyond-iptv-site/demo/live/atlas.ts?ch=arena2
+#EXTINF:-1 tvg-name="Silent Orbit (2025)" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/silent-orbit.jpg" group-title="Sci-Fi",Silent Orbit (2025)
+https://semdin.github.io/beyond-iptv-site/demo/movie/feature.mp4?id=silent-orbit
+#EXTINF:-1 tvg-name="Neon Harbor (2024)" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/neon-harbor.jpg" group-title="Action",Neon Harbor (2024)
+https://semdin.github.io/beyond-iptv-site/demo/movie/feature.mp4?id=neon-harbor
+#EXTINF:-1 tvg-name="Paper Mountains (2023)" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/paper-mountains.jpg" group-title="Drama",Paper Mountains (2023)
+https://semdin.github.io/beyond-iptv-site/demo/movie/feature.mp4?id=paper-mountains
+#EXTINF:-1 tvg-name="The Quiet Signal (2025)" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/the-quiet-signal.jpg" group-title="Thriller",The Quiet Signal (2025)
+https://semdin.github.io/beyond-iptv-site/demo/movie/feature.mp4?id=the-quiet-signal
+#EXTINF:-1 tvg-name="Lantern Road (2024)" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/lantern-road.jpg" group-title="Family",Lantern Road (2024)
+https://semdin.github.io/beyond-iptv-site/demo/movie/feature.mp4?id=lantern-road
+#EXTINF:-1 tvg-name="Glass Garden (2022)" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/glass-garden.jpg" group-title="Drama",Glass Garden (2022)
+https://semdin.github.io/beyond-iptv-site/demo/movie/feature.mp4?id=glass-garden
+#EXTINF:-1 tvg-name="Copper Sky (2025)" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/copper-sky.jpg" group-title="Adventure",Copper Sky (2025)
+https://semdin.github.io/beyond-iptv-site/demo/movie/feature.mp4?id=copper-sky
+#EXTINF:-1 tvg-name="Velvet Storm (2023)" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/velvet-storm.jpg" group-title="Thriller",Velvet Storm (2023)
+https://semdin.github.io/beyond-iptv-site/demo/movie/feature.mp4?id=velvet-storm
+#EXTINF:-1 tvg-name="Atlas Falls (2024)" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/atlas-falls.jpg" group-title="Adventure",Atlas Falls (2024)
+https://semdin.github.io/beyond-iptv-site/demo/movie/feature.mp4?id=atlas-falls
+#EXTINF:-1 tvg-name="Polar Night Run (2025)" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/polar-night-run.jpg" group-title="Action",Polar Night Run (2025)
+https://semdin.github.io/beyond-iptv-site/demo/movie/feature.mp4?id=polar-night-run
+#EXTINF:-1 tvg-name="Saffron Street (2022)" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/saffron-street.jpg" group-title="Family",Saffron Street (2022)
+https://semdin.github.io/beyond-iptv-site/demo/movie/feature.mp4?id=saffron-street
+#EXTINF:-1 tvg-name="North of Nowhere (2024)" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/north-of-nowhere.jpg" group-title="Sci-Fi",North of Nowhere (2024)
+https://semdin.github.io/beyond-iptv-site/demo/movie/feature.mp4?id=north-of-nowhere
+#EXTINF:-1 tvg-name="Harbor Lights S01E01 Arrival" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/harbor-lights.jpg" group-title="Series: Drama",Harbor Lights S01E01 Arrival
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=harbor-lights-s1e1
+#EXTINF:-1 tvg-name="Harbor Lights S01E02 The Night Ferry" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/harbor-lights.jpg" group-title="Series: Drama",Harbor Lights S01E02 The Night Ferry
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=harbor-lights-s1e2
+#EXTINF:-1 tvg-name="Harbor Lights S01E03 Low Tide" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/harbor-lights.jpg" group-title="Series: Drama",Harbor Lights S01E03 Low Tide
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=harbor-lights-s1e3
+#EXTINF:-1 tvg-name="Harbor Lights S01E04 Signals" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/harbor-lights.jpg" group-title="Series: Drama",Harbor Lights S01E04 Signals
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=harbor-lights-s1e4
+#EXTINF:-1 tvg-name="Harbor Lights S02E01 Return" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/harbor-lights.jpg" group-title="Series: Drama",Harbor Lights S02E01 Return
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=harbor-lights-s2e1
+#EXTINF:-1 tvg-name="Harbor Lights S02E02 Fog Bank" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/harbor-lights.jpg" group-title="Series: Drama",Harbor Lights S02E02 Fog Bank
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=harbor-lights-s2e2
+#EXTINF:-1 tvg-name="Harbor Lights S02E03 Anchors" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/harbor-lights.jpg" group-title="Series: Drama",Harbor Lights S02E03 Anchors
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=harbor-lights-s2e3
+#EXTINF:-1 tvg-name="Harbor Lights S02E04 Lighthouse" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/harbor-lights.jpg" group-title="Series: Drama",Harbor Lights S02E04 Lighthouse
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=harbor-lights-s2e4
+#EXTINF:-1 tvg-name="Starfall Academy S01E01 First Light" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/starfall-academy.jpg" group-title="Series: Sci-Fi",Starfall Academy S01E01 First Light
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=starfall-academy-s1e1
+#EXTINF:-1 tvg-name="Starfall Academy S01E02 Gravity Lessons" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/starfall-academy.jpg" group-title="Series: Sci-Fi",Starfall Academy S01E02 Gravity Lessons
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=starfall-academy-s1e2
+#EXTINF:-1 tvg-name="Starfall Academy S01E03 The Comet" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/starfall-academy.jpg" group-title="Series: Sci-Fi",Starfall Academy S01E03 The Comet
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=starfall-academy-s1e3
+#EXTINF:-1 tvg-name="Starfall Academy S01E04 Eclipse" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/starfall-academy.jpg" group-title="Series: Sci-Fi",Starfall Academy S01E04 Eclipse
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=starfall-academy-s1e4
+#EXTINF:-1 tvg-name="Starfall Academy S02E01 New Orbit" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/starfall-academy.jpg" group-title="Series: Sci-Fi",Starfall Academy S02E01 New Orbit
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=starfall-academy-s2e1
+#EXTINF:-1 tvg-name="Starfall Academy S02E02 Dark Matter" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/starfall-academy.jpg" group-title="Series: Sci-Fi",Starfall Academy S02E02 Dark Matter
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=starfall-academy-s2e2
+#EXTINF:-1 tvg-name="Starfall Academy S02E03 Pulsar" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/starfall-academy.jpg" group-title="Series: Sci-Fi",Starfall Academy S02E03 Pulsar
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=starfall-academy-s2e3
+#EXTINF:-1 tvg-name="Starfall Academy S02E04 Starfall" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/starfall-academy.jpg" group-title="Series: Sci-Fi",Starfall Academy S02E04 Starfall
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=starfall-academy-s2e4
+#EXTINF:-1 tvg-name="Crimson Lane S01E01 The Witness" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/crimson-lane.jpg" group-title="Series: Thriller",Crimson Lane S01E01 The Witness
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=crimson-lane-s1e1
+#EXTINF:-1 tvg-name="Crimson Lane S01E02 Cold Case" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/crimson-lane.jpg" group-title="Series: Thriller",Crimson Lane S01E02 Cold Case
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=crimson-lane-s1e2
+#EXTINF:-1 tvg-name="Crimson Lane S01E03 Red Door" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/crimson-lane.jpg" group-title="Series: Thriller",Crimson Lane S01E03 Red Door
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=crimson-lane-s1e3
+#EXTINF:-1 tvg-name="Crimson Lane S01E04 Alibi" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/crimson-lane.jpg" group-title="Series: Thriller",Crimson Lane S01E04 Alibi
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=crimson-lane-s1e4
+#EXTINF:-1 tvg-name="Crimson Lane S02E01 Second Look" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/crimson-lane.jpg" group-title="Series: Thriller",Crimson Lane S02E01 Second Look
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=crimson-lane-s2e1
+#EXTINF:-1 tvg-name="Crimson Lane S02E02 Night Shift" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/crimson-lane.jpg" group-title="Series: Thriller",Crimson Lane S02E02 Night Shift
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=crimson-lane-s2e2
+#EXTINF:-1 tvg-name="Crimson Lane S02E03 Fault Lines" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/crimson-lane.jpg" group-title="Series: Thriller",Crimson Lane S02E03 Fault Lines
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=crimson-lane-s2e3
+#EXTINF:-1 tvg-name="Crimson Lane S02E04 Verdict" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/crimson-lane.jpg" group-title="Series: Thriller",Crimson Lane S02E04 Verdict
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=crimson-lane-s2e4
+#EXTINF:-1 tvg-name="Wild Kingdoms S01E01 Rivers" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/wild-kingdoms.jpg" group-title="Series: Documentary",Wild Kingdoms S01E01 Rivers
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=wild-kingdoms-s1e1
+#EXTINF:-1 tvg-name="Wild Kingdoms S01E02 Deserts" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/wild-kingdoms.jpg" group-title="Series: Documentary",Wild Kingdoms S01E02 Deserts
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=wild-kingdoms-s1e2
+#EXTINF:-1 tvg-name="Wild Kingdoms S01E03 Forests" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/wild-kingdoms.jpg" group-title="Series: Documentary",Wild Kingdoms S01E03 Forests
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=wild-kingdoms-s1e3
+#EXTINF:-1 tvg-name="Wild Kingdoms S01E04 Oceans" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/wild-kingdoms.jpg" group-title="Series: Documentary",Wild Kingdoms S01E04 Oceans
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=wild-kingdoms-s1e4
+#EXTINF:-1 tvg-name="Wild Kingdoms S02E01 Ice" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/wild-kingdoms.jpg" group-title="Series: Documentary",Wild Kingdoms S02E01 Ice
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=wild-kingdoms-s2e1
+#EXTINF:-1 tvg-name="Wild Kingdoms S02E02 Islands" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/wild-kingdoms.jpg" group-title="Series: Documentary",Wild Kingdoms S02E02 Islands
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=wild-kingdoms-s2e2
+#EXTINF:-1 tvg-name="Wild Kingdoms S02E03 Grasslands" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/wild-kingdoms.jpg" group-title="Series: Documentary",Wild Kingdoms S02E03 Grasslands
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=wild-kingdoms-s2e3
+#EXTINF:-1 tvg-name="Wild Kingdoms S02E04 Mountains" tvg-logo="https://semdin.github.io/beyond-iptv-site/demo/posters/wild-kingdoms.jpg" group-title="Series: Documentary",Wild Kingdoms S02E04 Mountains
+https://semdin.github.io/beyond-iptv-site/demo/series/episode.mp4?id=wild-kingdoms-s2e4
